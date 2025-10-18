@@ -1,4 +1,4 @@
-🍫 #ChocoMetric$: Unwrapping Global Sales Trends One Box at a Time
+🍫 ChocoMetric$: Unwrapping Global Sales Trends One Box at a Time
 📊 Overview
 
 ChocoMetric$ is a fun, interactive Power BI project built around a fictional global chocolate company. Using a synthetic dataset, this dashboard unwraps key business insights across product types, countries, and sales reps.
